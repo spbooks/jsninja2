@@ -1,0 +1,322 @@
+{
+	"questions": [{
+			"name": "Superman",
+			"realName": "Clarke Kent"
+		},
+		{
+			"name": "Batman",
+			"realName": "Bruce Wayne"
+		},
+		{
+			"name": "Wonder Woman",
+			"realName": "Dianna Prince"
+		},
+		{
+			"name": "Spider-Man",
+			"realName": "Peter Parker"
+		},
+		{
+			"name": "Green Lantern",
+			"realName": "Hal Jordan"
+		},
+		{
+			"name": "Green Arrow",
+			"realName": "Oliver Queen"
+		},
+		{
+			"name": "The Flash",
+			"realName": "Barry Allen"
+		},
+		{
+			"name": "The Hulk",
+			"realName": "Bruce Banner"
+		},
+		{
+			"name": "Iron Man",
+			"realName": "Tony Stark"
+		},
+		{
+			"name": "The Punisher",
+			"realName": "Frank Castle"
+		},
+		{
+			"name": "Daredevil",
+			"realName": "Matt Murdoch"
+		},
+		{
+			"name": "Cyclops",
+			"realName": "Scott Summers"
+		},
+		{
+			"name": "Ghost Rider",
+			"realName": "Johnny Blaze"
+		},
+		{
+			"name": "Hawkeye",
+			"realName": "Clint Barton"
+		},
+		{
+			"name": "Aquaman",
+			"realName": "Arthur Curry"
+		},
+		{
+			"name": "Catwoman",
+			"realName": "Selina Kyle"
+		},
+		{
+			"name": "Beast",
+			"realName": "Hank McCoy"
+		},
+		{
+			"name": "Professor X",
+			"realName": "Charles Xavier"
+		},
+		{
+			"name": "Captain America",
+			"realName": "Steve Rogers"
+		},
+		{
+			"name": "Collossus",
+			"realName": "Piotr Rasputin"
+		},
+		{
+			"name": "Mr Fantastic",
+			"realName": "Reed Richards"
+		},
+		{
+			"name": "Invisible Girl",
+			"realName": "Sue Storm"
+		},
+		{
+			"name": "Iceman",
+			"realName": "Bobby Drake"
+		},
+		{
+			"name": "Martian Manhunter",
+			"realName": "J'onn J'onzz "
+		},
+		{
+			"name": "Two Face",
+			"realName": "Harvey Dent"
+		},
+		{
+			"name": "The Riddler",
+			"realName": "Edward Nigma"
+		},
+		{
+			"name": "Black Canary",
+			"realName": "Dinah Lance"
+		},
+		{
+			"name": "Killer Croc",
+			"realName": "Waylon Jones"
+		},
+		{
+			"name": "The Atom",
+			"realName": "Ray Palmer"
+		},
+		{
+			"name": "Animal Man",
+			"realName": "Buddy Baker"
+		},
+		{
+			"name": "Blue Beetle",
+			"realName": "Jaime Reyes"
+		},
+		{
+			"name": "Booster Gold",
+			"realName": "Michael Carter"
+		},
+		{
+			"name": "Captain Atom",
+			"realName": "Nate Adam"
+		},
+		{
+			"name": "Captain Marvel",
+			"realName": "Carol Danvers"
+		},
+		{
+			"name": "The Creeper",
+			"realName": "Jack Ryder"
+		},
+		{
+			"name": "Deathstroke",
+			"realName": "Slade Wilson"
+		},
+		{
+			"name": "Storm",
+			"realName": "Ororo Munroe"
+		},
+		{
+			"name": "Magneto",
+			"realName": "Max Eisenhardt"
+		},
+		{
+			"name": "The Human Torch",
+			"realName": "Johnny Storm"
+		},
+		{
+			"name": "Deadpool",
+			"realName": "Wade Wilson"
+		},
+		{
+			"name": "Black Panther",
+			"realName": "T'Challa"
+		},
+		{
+			"name": "The Thing",
+			"realName": "Ben Grimm"
+		},
+		{
+			"name": "Wolverine",
+			"realName": "James Howlett"
+		},
+		{
+			"name": "Nightcrawler",
+			"realName": "Kurt Wagner"
+		},
+		{
+			"name": "Gambit",
+			"realName": "Remy Etienne LeBeau"
+		},
+		{
+			"name": "Spider-Woman",
+			"realName": "Jessica Drew"
+		},
+		{
+			"name": "Doctor Doom",
+			"realName": "Victor Von Doom"
+		},
+		{
+			"name": "Nightwing",
+			"realName": "Dick Grayson"
+		},
+		{
+			"name": "Supergirl",
+			"realName": "Kara Danvers"
+		},
+		{
+			"name": "Scarecrow",
+			"realName": "Jonathan Crane"
+		},
+		{
+			"name": "The Penguin",
+			"realName": "Oswald Cobblepot"
+		},
+		{
+			"name": "Mister Miracle",
+			"realName": "Scott Free"
+		},
+		{
+			"name": "Hush",
+			"realName": "Tommy Elliot"
+		},
+		{
+			"name": "Huntress",
+			"realName": "Helena Bertinelli"
+		},
+		{
+			"name": "Hawkman",
+			"realName": "Carter Hall"
+		},
+		{
+			"name": "Hawkgirl",
+			"realName": "Shiera Hall"
+		},
+		{
+			"name": "Venom",
+			"realName": "Eddi Brock"
+		},
+		{
+			"name": "Rogue",
+			"realName": "Anna Marie"
+		},
+		{
+			"name": "Black Cat",
+			"realName": "Felicia Hardy"
+		},
+		{
+			"name": "White Queen",
+			"realName": "Emma Frost"
+		},
+		{
+			"name": "Captain Britain",
+			"realName": "Brian Braddock"
+		},
+		{
+			"name": "Doctor Strange",
+			"realName": "Stephen Vincent Strange"
+		},
+		{
+			"name": "Cable",
+			"realName": "Nathan Summers"
+		},
+		{
+			"name": "Dazzler",
+			"realName": "Alison Blaire"
+		},
+		{
+			"name": "Electro",
+			"realName": "Maxwell Dillon"
+		},
+		{
+			"name": "Falcon",
+			"realName": "Sam Wilson"
+		},
+		{
+			"name": "War Machine",
+			"realName": "James Rhodes"
+		},
+		{
+			"name": "Havok",
+			"realName": "Alex Summers"
+		},
+		{
+			"name": "Iron Fist",
+			"realName": "Danny Rand"
+		},
+		{
+			"name": "Batgirl",
+			"realName": "Barbara Gordon"
+		},
+		{
+			"name": "Scarlet Witch",
+			"realName": "Wanda Maximoff"
+		},
+		{
+			"name": "Quicksilver",
+			"realName": "Pietro Maximoff"
+		},
+		{
+			"name": "Sabretooth",
+			"realName": "Victor Creed"
+		},
+		{
+			"name": "She-Hulk",
+			"realName": "Jennifer Walters"
+		},
+		{
+			"name": "Sunfire",
+			"realName": "Shiro Yoshida"
+		},
+		{
+			"name": "Killer Frost",
+			"realName": "Caitlin Snow"
+		},
+		{
+			"name": "Captain Boomerang",
+			"realName": "George Harkness"
+		},
+		{
+			"name": "Cyborg",
+			"realName": "Victor Stone"
+		}, {
+			"name": "Enchantress",
+			"realName": "June Moon"
+		},
+		{
+			"name": "Doctor Strange",
+			"realName": "Stephen Vincent Strange"
+		}
+	]
+}
