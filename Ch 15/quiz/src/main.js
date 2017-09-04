@@ -1,6 +1,6 @@
 import { view, game } from './quiz.js';
 
-const url = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/123941/questions.json';
+const url = 'http://spbooks.github.io/questions.json';
 
 fetch(url)
   .then(res => res.json())

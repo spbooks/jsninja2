@@ -1,0 +1,9 @@
+*.swp
+*.xml~
+*.rb~
+*.css~
+*.js~
+tmp/
+log/
+.DS_Store
+
