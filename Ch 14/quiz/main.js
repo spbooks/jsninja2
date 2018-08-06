@@ -1,4 +1,4 @@
-const url = 'http://spbooks.github.io/questions.json';
+const url = 'https://spbooks.github.io/jsninja2/questions.json';
 
 fetch(url)
   .then(res => res.json())
