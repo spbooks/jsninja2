@@ -1,0 +1,76 @@
+
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="336" height="235.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5f1c1c;
+      }
+
+      .cls-2 {
+        fill: #955123;
+      }
+
+      .cls-3 {
+        fill: #fdf9ce;
+      }
+
+      .cls-4 {
+        fill: #dedead;
+      }
+
+      .cls-5 {
+        fill: #f15f61;
+      }
+    </style>
+   
+  </defs>
+  <title>DOJO 2</title>
+  <g>
+    <rect class="cls-2" y="173.2" width="336" height="62"/>
+    <g>
+      <rect class="cls-1" width="336" height="196.3"/>
+      <path class="cls-3" d="M213.3,50.2H122.8a12.5,12.5,0,0,1-12.5,12.5V182.9H225.7V62.7a12.55,12.55,0,0,1-12.4-12.5"/>
+      <path class="cls-3" d="M89.9,50.2H21.4A12.5,12.5,0,0,1,8.9,62.7V182.9h93.4V62.7A12.55,12.55,0,0,1,89.9,50.2"/>
+      <path class="cls-3" d="M314.6,50.2H246.1a12.5,12.5,0,0,1-12.5,12.5V182.9H327V62.7a12.55,12.55,0,0,1-12.4-12.5"/>
+      <rect class="cls-3" x="121.3" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="84.1" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="94.9" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="164.3" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="153.5" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="142.8" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="110.6" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="19.7" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="30.4" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="73.4" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="9" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="62.7" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="51.9" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="41.2" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="132" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="287.4" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="276.6" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="265.9" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="255.1" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="298.1" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="319.6" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="308.8" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="175" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="196.5" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="207.2" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="185.7" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="218" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="244.4" width="7.5" height="39.3"/>
+      <rect class="cls-3" x="233.7" width="7.5" height="39.3"/>
+      <path class="cls-4" d="M94,59.4,15.6,173.2,9,182.8h93.4V62.7A12.41,12.41,0,0,1,94,59.4"/>
+      <path class="cls-4" d="M217.3,59.4l-107,123.4H225.7V62.7a12.8,12.8,0,0,1-8.4-3.3"/>
+      <path class="cls-4" d="M318.7,59.4,240.3,173.2l-6.7,9.7H327V62.7a12.35,12.35,0,0,1-8.3-3.3"/>
+      <path class="cls-1" d="M45,73.9H66.4a8.24,8.24,0,0,0,8.2,8.2v68.8a8.24,8.24,0,0,0-8.2,8.2H45a8.24,8.24,0,0,0-8.2-8.2V82.1A8.24,8.24,0,0,0,45,73.9"/>
+      <path class="cls-3" d="M47.6,78.6H63.7a6.23,6.23,0,0,0,6.2,6.2v63.3a6.23,6.23,0,0,0-6.2,6.2H47.6a6.23,6.23,0,0,0-6.2-6.2V84.8a6.17,6.17,0,0,0,6.2-6.2"/>
+      <path class="cls-1" d="M269.4,73.9h21.4a8.24,8.24,0,0,0,8.2,8.2v68.8a8.24,8.24,0,0,0-8.2,8.2H269.4a8.24,8.24,0,0,0-8.2-8.2V82.1a8.24,8.24,0,0,0,8.2-8.2"/>
+      <path class="cls-3" d="M272.1,78.6h16.1a6.23,6.23,0,0,0,6.2,6.2v63.3a6.23,6.23,0,0,0-6.2,6.2H272.1a6.23,6.23,0,0,0-6.2-6.2V84.8a6.17,6.17,0,0,0,6.2-6.2"/>
+      <path class="cls-5" d="M168,88.3a28.2,28.2,0,1,1-28.2,28.2A28.17,28.17,0,0,1,168,88.3"/>
+
+    </g>
+  </g>
+</svg>
